@@ -399,13 +399,13 @@ endif;
     <!-- Right Content -->
     <div class="why-col why-content">
       <h2 style="color: #222; text-align:left; margin-left: 20px; font-family: 'Barlow', sans-serif; color:#222223;">
-Ευέλικτη εφαρμογή για γεμάτους μηρούς
+Paindlik sobivus täidlastele reietele
       </h2>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Άνεση όλη μέρα
+        <p><strong>Mugavus terve päeva
 </strong></p>
-        <p class="description">Ειδικά σχεδιασμένα για άνδρες με πιο γεμάτους μηρούς. Το ελαστικό και εύκαμπτο υλικό παρέχει μέγιστη άνεση χωρίς σφίξιμο ή δυσάρεστη πίεση στη μέση. Το εσώρουχο μένει στη θέση του και δεν ανεβαίνει, ώστε να κινείστε ελεύθερα όλη μέρα.</p>
+        <p class="description">Spetsiaalselt loodud täidlasemate reietega meestele. Elastne ja paindlik materjal tagab maksimaalse mugavuse ilma pigistamise või ebameeldiva surveta vöökohal. Aluspesu jääb paigale ega roni üles, nii et saate terve päeva vabalt liikuda.</p>
       </div>
 
 
@@ -435,14 +435,14 @@ endif;
     <!-- Right Content -->
     <div class="why-col why-content">
       <h2 style="color: #222; text-align:left; margin-left: 20px; font-family: 'Barlow', sans-serif; color:#222223;">
-      Λιγότερη φθορά και ζημιά
+      Vähem kulumist ja kahjustusi
       </h2>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Σούπερ ανθεκτικά 💪
+        <p><strong>Super vastupidavad 💪
 </strong></p>
-        <p class="description">"Ξεχάστε τα εσώρουχα που σκίζονται γρήγορα.
-Τα σορτς NORIKS είναι κατασκευασμένα από πιο ανθεκτικό υλικό - διαρκούν περισσότερο και σας γλιτώνουν από περιττές επισκέψεις στα καταστήματα."
+        <p class="description">"Unustage aluspesu, mis kiiresti rebeneb.
+NORIKS bokserid on valmistatud vastupidavamast materjalist - need kestavad kauem ja säästavad teid tarbetutest poodiskäikudest."
 </p>
       </div>
 
@@ -485,12 +485,12 @@ endif;
     <!-- Right Content -->
     <div class="why-col why-content">
       <h2 style="color: #222; text-align:left; margin-left: 20px; font-family: 'Barlow', sans-serif; color:#222223;">
-      Αρκετός χώρος για τα πάντα
+      Piisavalt ruumi kõigele
       </h2>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Κύριοι, αφήστε την περιοχή σας να αναπνέει ελεύθερα!
-</strong></p>Τα εσώρουχα NORIKS παρέχουν υποστήριξη όλη μέρα χωρίς να χάνουν το σχήμα τους. Το ουράνια απαλό modal υλικό τεντώνεται και εφαρμόζει τέλεια εκεί που πρέπει. Ο χώρος για τον «εξοπλισμό» σας είναι ευρύτερος και πιο ευέλικτος, ώστε να μην νιώθετε στριμωγμένοι.</p>
+        <p><strong>Härrad, laske oma tsoonis vabalt hingata!
+</strong></p>NORIKS aluspesu pakub terve päeva tuge kaotamata kuju. Taevalikult pehme modaalmaterjal venib ja istub ideaalselt seal, kus vaja. Ruum teie "varustusele" on laiem ja paindlikum, nii et te ei tunne end kitsikusse surutuna.</p>
       </div>
 
 
