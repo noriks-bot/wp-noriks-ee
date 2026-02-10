@@ -46,7 +46,7 @@ get_header(); ?>
   <div class="hero__overlay" aria-hidden="true"></div>
 
   <div class="hero__content">
-    <!--<p class="hero__eyebrow">ΝΕΟ: NORIKS </p>-->
+    <!--<p class="hero__eyebrow">UUS: NORIKS </p>-->
     <h1 class="hero__title">T-särk, mis lahendab kõik probleemid.</h1>
 
     <a class="hero__btn" href="/ee/shop">OSTA KOHE</a>

@@ -138,12 +138,12 @@ document.addEventListener('DOMContentLoaded', function () {
     <div class="marquee-content">
       <span><a href="/ee/shop">Tasuta tarne tellimustele üle 70 €</a></span>
       <span><a href="/ee/shop">30 päeva riskivabalt – proovi muretult</a></span>
-      <!--<span><a href="/ee/shop">Χειμερινή προσφορά: Έως 70% έκπτωση!</a></span>-->
+      <!--<span><a href="/ee/shop">Talvepakkumine: Kuni 70% soodsamalt!</a></span>-->
 
       <!-- DUPLICATED for seamless infinite loop -->
       <span><a href="/ee/shop">Tasuta tarne tellimustele üle 70 €</a></span>
       <span><a href="/ee/shop">30 päeva riskivabalt – proovi muretult</a></span>
-     <!-- <span><a href="/ee/shop">Χειμερινή προσφορά: Έως 70% έκπτωση!</a></span>-->
+     <!-- <span><a href="/ee/shop">Talvepakkumine: Kuni 70% soodsamalt!</a></span>-->
       
        <!-- DUPLICATED for seamless infinite loop -->
       <span><a href="/ee/shop">Tasuta tarne tellimustele üle 70 €</a></span>
