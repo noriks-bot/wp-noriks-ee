@@ -322,7 +322,7 @@ if (  has_term( array( 'tricka', 'orto-majice', 'mplouzoakia', 't-shirts', 'blou
       </div>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Střih, který rozumí tělu
+        <p><strong>Lõige, mis mõistab keha
 </strong></p>
         <p class="description">Lõige on välja töötatud nii, et see järgiks keha liini ilma pigistamata ja rõhutaks õigeid kohti. Tulemuseks on korrastatud, enesekindel välimus ilma ebamugavustundeta.
 </p>
