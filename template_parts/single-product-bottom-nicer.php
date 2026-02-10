@@ -324,7 +324,7 @@ if (  has_term( array( 'tricka', 'orto-majice', 'mplouzoakia', 't-shirts', 'blou
       <div style="margin-left: 20px;" class="why-point">
         <p><strong>Střih, který rozumí tělu
 </strong></p>
-        <p class="description">Střih byl vyvíjen tak, aby kopíroval linii těla bez stahování a zvýraznil to správné. Výsledkem je upravený, sebevědomý vzhled bez pocitu nepohodlí.
+        <p class="description">Lõige on välja töötatud nii, et see järgiks keha liini ilma pigistamata ja rõhutaks õigeid kohti. Tulemuseks on korrastatud, enesekindel välimus ilma ebamugavustundeta.
 </p>
       </div>
 
