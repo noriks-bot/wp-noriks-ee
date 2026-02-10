@@ -23,7 +23,7 @@ PROČ LIDÉ VOLÍ STARTOVACÍ BALÍČEK?
 
       <div style="margin-left: 20px;" class="why-point">
         <p  style="    font-style: italic;
-    line-height: 1.2;"  ><strong>"""Vzal jsem ho, protože jsem si nebyl jistý, jestli mi bude sedět."
+    line-height: 1.2;"  ><strong>"""Võtsin selle, sest polnud kindel, kas see mulle sobib."
 
 
 </strong><span style="font-weight:normal;">Marko - Zagreb</span></p>
@@ -105,7 +105,7 @@ PROČ LIDÉ VOLÍ STARTOVACÍ BALÍČEK?
       </div>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Kvalita, kterou ucítíš hned
+        <p><strong>Kvaliteet, mida tunned kohe
 
 
 </strong></p>
@@ -315,7 +315,7 @@ if (  has_term( array( 'tricka', 'orto-majice', 'mplouzoakia', 't-shirts', 'blou
       </h2>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Navrženo pro skutečný život
+        <p><strong>Loodud päris eluks
 </strong></p>
         <p class="description">See T-särk on mõeldud terve päeva kandmiseks - hommikust õhtuni. Ei vaja mingit kohandamist ega mõtlemist, lihtsalt istub hästi igas olukorras.
 </p>
@@ -329,7 +329,7 @@ if (  has_term( array( 'tricka', 'orto-majice', 'mplouzoakia', 't-shirts', 'blou
       </div>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Rozdíl poznáš už při prvním obléknutí
+        <p><strong>Erinevust tunned juba esimesel selgapanemisel
 </strong></p>
         <p class="description">Materjal on nahal pehme, kerge ja hingav. Juba pärast esimest kandmist on selge, miks see T-särk saab kiiresti selleks, mille järele kõige sagedamini haarad.
 </p>
@@ -451,9 +451,9 @@ endif;
 
         <p class="description">
 
-        ✅ Méně trhání <br/>
-        ✅ Méně pocení <br/>
-        ✅ Pohodlí po celý den <br/>
+        ✅ Vähem tõmbamist <br/>
+        ✅ Vähem higistamist <br/>
+        ✅ Mugavus terve päeva <br/>
 
         </p>
       </div>
@@ -1049,7 +1049,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
           <?php else: ?>
 
-          Nisi sam u potrazi za savršenim boksericama.
+          Sa pole ainus, kes otsib täiuslikke boksereid.
 
           <?php endif; ?>
 
@@ -1596,7 +1596,7 @@ $auto_reviews_ship = assign_unique_avatars_first_n($auto_reviews_ship, $avatar_p
     <div class="cta-button" style="background:transparent;padding:0;justify-content:left;">
       <a class="cta-button2 button button--xl"
          style="margin:0 auto;text-align:left;background:black;font-family:'Roboto',sans-serif;color:#fff;text-transform:none;font-size:15px;padding:10px 25px;"
-         href="#">Načíst více</a>
+         href="#">Laadi rohkem</a>
     </div>
     <div id="reviews-loading" style="display:none;text-align:center;padding:15px;">
       <div class="loader"></div>
@@ -1921,7 +1921,7 @@ $faq_list3 = get_field('faq_list_3', 'option');
 
 
 <section class="faq-section">
-  <h2>Často kladené otázky</h2>
+  <h2>Korduma kippuvad küsimused</h2>
 
 
    <!-- first faq container -->
