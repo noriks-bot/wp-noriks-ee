@@ -184,7 +184,7 @@
                                 <div class="logo">DS</div>
                               </div>
                                <a href="https://dudeshirts.d4web.eu/product/coastal-2-pack/" class="shop-button">SHOP NOW</a>
-                              <p class="shipping-info">FREE Shipping on Orders +£150 · 35-Day Returns</p>
+                              <p class="shipping-info">TASUTA tarne tellimustele üle 70€ · 35-päevane tagastus</p>
                             </div>
                         
                           

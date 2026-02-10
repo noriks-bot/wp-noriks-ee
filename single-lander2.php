@@ -300,7 +300,7 @@ get_header();
               <div class="rich-text__text rte">
                 <h1 style="margin-top: 20px; font-size: 2.2rem;
     line-height: 1.2;" >
-                  <strong>Tihi ubojica: Skrivena istina o tvojim gaćama i zašto modal bokserice NORIKS čine sve druge opcije nebitnima</strong>
+                  <strong>Vaikne tapja: Varjatud tõde sinu aluspükste kohta ja miks NORIKS modaalist bokserid muudavad kõik teised valikud tähtsusetuks</strong>
                 </h1>
               </div>
             </div>
@@ -403,7 +403,7 @@ get_header();
                   <p class="image-with-text__text image-with-text__text--caption caption-with-letter-spacing caption-with-letter-spacing--medium"> ČLANAK </p>
                   <h2 class="image-with-text__heading h2 rte title-with-highlight" style="--hightlight-color:#2e2a39"> Tvoje donje rublje moglo bi ozbiljno utjecati na tvoje zdravlje upravo sada</h2>
                   <div class="image-with-text__text rte body">
-                    <p>Ako trenutno nosiš pamučne ili druge uobičajene bokserice, pažljivo pročitaj informacije na ovoj stranici.</p>
+                    <p>Kui kannad praegu puuvillaseid või muid tavalisi boksereid, loe hoolikalt selle lehe teavet.</p>
                     <p>Ako još uvijek nosiš tradicionalni pamuk ili, još gore, sintetičko rublje od poliestera, riskiraš ozbiljne zdravstvene probleme.</p>
                   </div>
                   <a href="https://noriks.com/ee/product-category/bokserice/" class="button button--primary"> Kontrolli saadavust </a>
@@ -609,7 +609,7 @@ get_header();
                   <div class="image-with-text__text rte body">
                     <p>Tradicionalne tkanine poput poliestera ili pamučnih mješavina mogu iritirati osjetljiva područja i stvoriti idealno okruženje za infekcije. Ne radi se samo o udobnosti — radi se o zaštiti tvog tijela od infekcija, oštećenja kože i dugoročnih zdravstvenih problema.</p>
                     <p>
-                      <strong>Zato NORIKS bokserice nisu samo luksuz, nego zdravstvena nužnost.</strong>
+                      <strong>Seetõttu pole NORIKS bokserid mitte ainult luksus, vaid tervislik vajadus.</strong>
                     </p>
                   </div>
                   <a href="https://noriks.com/ee/product-category/bokserice/" class="button button--primary"> Kontrolli saadavust </a>
@@ -838,7 +838,7 @@ Individualni rezultati mogu se razlikovati. </em>
                 </h2>
               </div>
               <div style="margin-top: 15px;" class="rich-text__buttons">
-                <a href="https://noriks.com/ee/product-category/bokserice/" class="button button--primary">Telli kohe i zaštiti svoje zdravlje</a>
+                <a href="https://noriks.com/ee/product-category/bokserice/" class="button button--primary">Telli kohe ja kaitse oma tervist</a>
               </div>
               <div class="rich-text__text rte">
                 <p>Više od 2.225.000 muškaraca već je prešlo na NORIKS. Ne čekaj da se pojave osipi, infekcije ili neugodni mirisi.</p>
