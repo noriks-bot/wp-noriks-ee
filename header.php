@@ -148,7 +148,7 @@ document.addEventListener('DOMContentLoaded', function () {
        <!-- DUPLICATED for seamless infinite loop -->
       <span><a href="/ee/shop">Tasuta tarne tellimustele üle 70 €</a></span>
       <span><a href="/ee/shop">30 päeva riskivabalt – proovi muretult</a></span>
-     <!-- <span><a href="/hr/shop">Zimska ponuda: Do 70% popusta!</a></span>-->
+     <!-- <span><a href="/ee/shop">Talvepakkumine: Kuni 70% soodsamalt!</a></span>-->
     </div>
   </div>
 </div>
