@@ -27,7 +27,7 @@ PROČ LIDÉ VOLÍ STARTOVACÍ BALÍČEK?
 
 
 </strong><span style="font-weight:normal;">Marko - Zagreb</span></p>
-        <p class="description">Mnoho zákazníků začíná se startovacím balíčkem, protože si chtějí nejdřív ověřit, jak NORIKS sedí a jak se nosí. Jedno tričko a jedny boxerky stačí k rozhodnutí bez velké investice.
+        <p class="description">Paljud kliendid alustavad stardikomplektiga, sest soovivad kõigepealt kontrollida, kuidas NORIKS istub ja kuidas seda kanda. Üks T-särk ja ühed bokserid on piisavad otsuse tegemiseks ilma suure investeeringuta.
 
 
 
@@ -36,12 +36,12 @@ PROČ LIDÉ VOLÍ STARTOVACÍ BALÍČEK?
 
       <div style="margin-left: 20px;" class="why-point">
         <p  style="    font-style: italic;
-    line-height: 1.2;" ><strong>"Po prvním nošení jsem si hned objednal další."
+    line-height: 1.2;" ><strong>"Pärast esimest kandmist tellisin kohe veel."
 
 
 
 </strong><span style="font-weight:normal;">Pavle - Split</span></p>
-        <p class="description">Více než 95 % zákazníků si po startovacím balíčku objedná znovu. Ne proto, že by to plánovali, ale protože už první den cítí rozdíl ve střihu, pohodlí a kvalitě.
+        <p class="description">Üle 95% klientidest tellib pärast stardikomplekti uuesti. Mitte sellepärast, et nad seda planeerisid, vaid sest juba esimesel päeval tunnevad erinevust lõikes, mugavuses ja kvaliteedis.
 
 </p>
       </div>
@@ -109,7 +109,7 @@ PROČ LIDÉ VOLÍ STARTOVACÍ BALÍČEK?
 
 
 </strong></p>
-        <p class="description">Materiály jsou měkké, prodyšné a příjemné na pokožce, aniž by po praní ztrácely tvar. Už při prvním nošení je jasné, proč se tato kombinace rychle stává součástí každodenního šatníku.
+        <p class="description">Materjalid on pehmed, hingavad ja nahale meeldivad, kaotamata pärast pesemist kuju. Juba esimesel kandmisel on selge, miks see kombinatsioon saab kiiresti igapäevase garderobi osaks.
 
 
 </p>
@@ -317,7 +317,7 @@ if (  has_term( array( 'tricka', 'orto-majice', 'mplouzoakia', 't-shirts', 'blou
       <div style="margin-left: 20px;" class="why-point">
         <p><strong>Navrženo pro skutečný život
 </strong></p>
-        <p class="description">Toto tričko je určené pro celodenní nošení - od rána do večera. Nevyžaduje žádné upravování ani přemýšlení, jednoduše dobře sedí v každé situaci.
+        <p class="description">See T-särk on mõeldud terve päeva kandmiseks - hommikust õhtuni. Ei vaja mingit kohandamist ega mõtlemist, lihtsalt istub hästi igas olukorras.
 </p>
       </div>
 
@@ -331,7 +331,7 @@ if (  has_term( array( 'tricka', 'orto-majice', 'mplouzoakia', 't-shirts', 'blou
       <div style="margin-left: 20px;" class="why-point">
         <p><strong>Rozdíl poznáš už při prvním obléknutí
 </strong></p>
-        <p class="description">Materiál je na pokožce měkký, lehký a prodyšný. Už po prvním nošení je jasné, proč se toto tričko rychle stane tím, po kterém saháš nejčastěji.
+        <p class="description">Materjal on nahal pehme, kerge ja hingav. Juba pärast esimest kandmist on selge, miks see T-särk saab kiiresti selleks, mille järele kõige sagedamini haarad.
 </p>
       </div>
     </div>
@@ -838,7 +838,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 <section style="display:block; max-width:1440px; margin:0 auto; padding-bottom:30px;" class="most-popular">
   <div class="container" style="padding-left:10px; padding-right:10px;">
-    <h2 class="section-title" style="margin-bottom:20px;">Připravené kombinace - jednoduše a rychle</h2>
+    <h2 class="section-title" style="margin-bottom:20px;">Valmis komplektid - lihtsalt ja kiiresti</h2>
 
     <div class="products-grid slider-mobile">
       <?php foreach ($products as $index => $product): ?>

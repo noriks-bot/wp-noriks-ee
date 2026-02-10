@@ -834,7 +834,7 @@ Individualni rezultati mogu se razlikovati. </em>
               <h2 style="margin-top: 25px; font-size: 2.2rem; line-height:1.1;" class="rich-text__heading rte h1 title-with-highlight" style="--hightlight-color:#6d388b"> Liitu tuhandetega, kes on juba üle läinud • 70% soodsamalt esimesele tellimusele </h2>
               <div class="rich-text__text rte">
                 <h2 class="second-h2" style=" font-size: 1.7rem; line-height:1.1;" >
-                  <strong>6-mjesečno jamstvo protiv rupa • 30-dnevno probno razdoblje bez rizika</strong>
+                  <strong>6-kuuline garantii aukude vastu • 30-päevane prooviperiood riskivabalt</strong>
                 </h2>
               </div>
               <div style="margin-top: 15px;" class="rich-text__buttons">
